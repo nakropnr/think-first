@@ -1,3 +1,1 @@
 # think-first
-
-HI
